@@ -1,0 +1,4 @@
+User-Agent:*
+Allow: /
+
+Sitemap: https://thunderous-cajeta-ffe97a.netlify.app/sitemap.xml
